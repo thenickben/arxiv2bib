@@ -1,12 +1,7 @@
 [//]: # (Image References)
 
-[logo]: https://github.com/pytrainai/pearl/blob/master/assets/logo.png
 
 # ArXiv2Bib: Automatic generation of .bib files and .tex file with abstracts and citations!
-
-## PyTrain team
-
-![logo]
 
 
 ### Getting Started
